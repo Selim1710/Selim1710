@@ -1,7 +1,7 @@
  <h2>👋 Myself Md.Selim Hossain Suhag </h2>
 
-⬤ I’m currently working in a software company as a Jr. Web developer. <br/>
-⬤ Now i am learning vue.js and creating a project which is based on HTML, CSS, Bootstrap, Vue.js and Laravel <br/>
+◉ I’m currently working in a software company as a Jr. Web developer. <br/>
+◉ Now i am learning vue.js and creating a project which is based on HTML, CSS, Bootstrap, Vue.js and Laravel <br/>
 
 <!--
 **Selim1710/Selim1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
