@@ -1,7 +1,7 @@
  <h2>👋 Myself Md.Selim Hossain Suhag </h2>
  
 ◉ Graduated from IUBAT in March 12, 2022 <br/>
-◉ currently, I am working as a Jr. Web developer in a software company. <br/>
+◉ Currently, I am working as a Jr. Web developer in a software company. <br/>
 ◉ Now i am learning vue.js and creating a project which is based on HTML, CSS, Bootstrap, Vue.js and Laravel <br/>
 
 <!--
