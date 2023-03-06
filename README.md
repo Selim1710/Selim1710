@@ -2,10 +2,10 @@
  
 ◉ I graduate in March 12, 2022 from IUBAT, Dhaka, Bangladesh <br/>
 ◉ Currently, I am working as a Jr. Web developer in a software company. <br/>
-◉ I have good skills: 
-                       ■ HTML,CSS,Bootstrap <br/>
-                       ■ JS,JQuery,Vue,Ajax <br/>
-                       ■ PHP,Laravel and Api  <br/>
+◉ I have good skills: <br/>
+     &nbsp;                 ■ HTML,CSS,Bootstrap <br/>
+     &nbsp;                ■ JS,JQuery,Vue,Ajax <br/>
+     &nbsp;             ■ PHP,Laravel and Api  <br/>
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
 <!--
