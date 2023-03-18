@@ -1,6 +1,6 @@
  <h2>👋 Myself Md.Selim Hossain Suhag </h2>
  
-◉ I graduate in March 12, 2022 from IUBAT, Dhaka, Bangladesh <br/>
+◉ I have completed my graduation from IUBAT(Dhaka, Bangladesh) in March 12, 2022  <br/>
 ◉ Currently, I am working as a Jr. Web developer in a software company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
