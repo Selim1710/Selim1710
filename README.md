@@ -1,6 +1,7 @@
  <h2>👋 Myself Md.Selim Hossain Suhag </h2>
  
 ◉ I have completed my graduation from IUBAT(Uttara, Dhaka, Bangladesh) in February 2, 2022  <br/>
+◉ I have completed 4 month(From 1 october 2021 to 30 january 2022) internship period from Kodeeo limited software company.  <br/>
 ◉ Since 12 March 2022, I am working as a Jr. Web developer in a well reputed software company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
