@@ -9,7 +9,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
-⬤ Date: {{ date('M') }}
 
 <!--
 **Selim1710/Selim1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
