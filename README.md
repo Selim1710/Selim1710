@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
 
 ◉ The Project i have worked:
-* Hazira - HR & Payroll system.
+1. Hazira - HR & Payroll system.
 
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
