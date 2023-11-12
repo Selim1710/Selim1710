@@ -10,8 +10,8 @@
 
 ◉ The client base project i have worked:   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Hazira - HR & Payroll system.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - information collection.  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti - (collect:daily, weekly, monthly deposit from customer )  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - tax information collection.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ziarah - Hajj, Tour and Travel management software.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. CRM - Customer Relationship Management.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Education Consultancy App.  <br/>
