@@ -7,6 +7,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
+
+◉ The Project i have worked:
+* Hazira - HR & Payroll system.
+
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
 
