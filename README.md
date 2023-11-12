@@ -9,20 +9,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
 
 ◉ The Project i have worked:
-1. Hazira - HR & Payroll system.
-2. Somiti.
-3. Tax - information collection.
-4. Ziarah - Hajj, Tour and Travel management software.
-5. CRM - Customer Relationship Management.
-6. Education Consultancy App.
-7. Bikri Software.
-8. CMS - Content management software.
-9. Axes App - business automation.
-10. Zoom computer bd - mobile, laptop and computer selling app
-11. Co-working app
-12. Ankon Fashion BD
-13. Axessory Shop
-14. BAIL-Bangladesh Auto Industries Limited.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Hazira - HR & Payroll system.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - information collection.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ziarah - Hajj, Tour and Travel management software.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. CRM - Customer Relationship Management.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Education Consultancy App.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Bikri Software.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. CMS - Content management software.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Axes App - business automation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Zoom computer bd - mobile, laptop and computer selling app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Co-working app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Ankon Fashion BD
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Axessory Shop
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. BAIL-Bangladesh Auto Industries Limited.
 
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
