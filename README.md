@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
 
-◉ The Project i have worked:
+◉ The Project i have worked:   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Hazira - HR & Payroll system.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - information collection.  <br/>
