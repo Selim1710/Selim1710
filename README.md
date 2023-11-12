@@ -10,6 +10,19 @@
 
 ◉ The Project i have worked:
 1. Hazira - HR & Payroll system.
+2. Somiti.
+3. Tax - information collection.
+4. Ziarah - Hajj, Tour and Travel management software.
+5. CRM - Customer Relationship Management.
+6. Education Consultancy App.
+7. Bikri Software.
+8. CMS - Content management software.
+9. Axes App - business automation.
+10. Zoom computer bd - mobile, laptop and computer selling app
+11. Co-working app
+12. Ankon Fashion BD
+13. Axessory Shop
+14. BAIL-Bangladesh Auto Industries Limited.
 
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
