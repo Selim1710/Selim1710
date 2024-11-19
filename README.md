@@ -2,7 +2,7 @@
  
 ◉ I have completed my graduation from IUBAT(Uttara, Dhaka, Bangladesh) in February 2, 2022 (Spring Semester)  <br/>
 ◉ I have completed 4 month(From 1 october 2021 to 30 january 2022) internship period from Kodeeo limited software company.  <br/>
-◉ Since 12 March 2022, I am working as a Jr. Web developer in a well reputed software company. <br/>
+◉ Since 12 March 2022 ( ~ 3 Years ), I am working as a Software Engineer in software development company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
@@ -31,7 +31,9 @@
 ◉ Inhouse project:   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Narcotics - HRM.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. BAIL - (E-commarce site )  <br/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Cash flow management - (school management )  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. CRM - (For byte care limited. )  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. ERP - (For byte care limited.)  <br/>
 
 
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
