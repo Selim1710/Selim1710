@@ -27,6 +27,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16. Nibaash-Complete house rent software.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17. Recruitment Management Software.  <br/>
 
+
+◉ Inhouse project:   <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Narcotics - HRM.  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. BAIL - (E-commarce site )  <br/>
+
+
+
 ◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
 
 
