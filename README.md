@@ -2,7 +2,7 @@
  
 ◉ Graduated from IUBAT(Uttara, Dhaka, Bangladesh) in February 2, 2022 (Spring Semester)  <br/>
 ◉ Completed 4 month(From 1 october 2021 to 30 january 2022) internship period from Kodeeo limited.  <br/>
-◉ Since 12 March 2022 ( ~ 3 Years ), I am working as a Software Engineer in software development company. <br/>
+◉ Since 12 March 2022 (3 Years), I am working as a Software Engineer in software development company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
